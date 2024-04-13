@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/Caiozord/CaiozOt/releases/download/V1.0.0/client-to-update.zip",
-	"clientExecutable": "CaiozOtclient.exe"
+	"clientExecutable": "Launcher-CaiozOt.exe"
 }
